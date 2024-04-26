@@ -1,0 +1,7 @@
+# template.yaml
+Description: Advanced Demo - internet facing Application on private EKS clust behind a Hub and Spoke network with application Load Balancer
+Parameters:
+
+Resources:
+
+Outputs:
